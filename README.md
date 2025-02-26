@@ -4,10 +4,10 @@ LangGraphLab is a collection of example projects demonstrating how to use LangGr
 
 ## Features
 
-- Step-by-step Examples: A variety of example workflows showcasing different use cases of LangGraph.
-- Multi-Agent Systems: Implementations of collaborative AI agents using LangGraph.
-- No External API Dependency: Examples focus on running locally without requiring external API keys.
-- Modular & Extensible: Easily modify and extend the examples for your own projects.
+* **Workflows:** A variety of example workflows showcasing different use cases of LangGraph.
+* **Agents:** Implementations of individual AI agents.
+* **Multi-Agent Systems:** Implementations of collaborative AI agents using LangGraph.
+* **LLM Techniques:** Examples demonstrating advanced techniques for working with large language models.
 
 ## Getting Started
 
@@ -41,12 +41,12 @@ langgraph dev
 
 ## Examples Included
 
-* Prompt Chaining: Connecting multiple prompts in sequence.
-* Parallelization: Running multiple tasks concurrently.
-* Routing: Directing tasks based on conditions.
-* Orchestrator-Worker: Managing tasks with orchestrators and workers.
-* Evaluator-Optimizer: Evaluating and improving responses iteratively.
-* Agent: Implementing AI agents with LangGraph.
+* **Prompt Chaining:** Connecting multiple prompts in sequence.
+* **Parallelization:** Running multiple tasks concurrently.
+* **Routing:** Directing tasks based on conditions.
+* **Orchestrator-Worker:** Managing tasks with orchestrators and workers.
+* **Evaluator-Optimizer:** Evaluating and improving responses iteratively.
+* **Agent:** Implementing AI agents with LangGraph.
 
 ## Contributing
 
