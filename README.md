@@ -1,6 +1,6 @@
 # LangGraphLab
 
-LangGraphLab is a collection of example projects demonstrating how to use LangGraph, a powerful framework for building multi-agent systems and workflow orchestration with large language models (LLMs). This repository aims to provide hands-on examples to help developers and researchers learn how to effectively leverage LangGraph in various scenarios.
+LangGraphLab is a collection of examples demonstrating how to use LangGraph, a powerful framework for building multi-agent systems and workflow orchestration with large language models (LLMs). This repository aims to provide hands-on examples to help developers and researchers learn how to effectively leverage LangGraph in various scenarios.
 
 ## Features
 
