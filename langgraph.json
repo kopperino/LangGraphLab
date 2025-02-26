@@ -3,11 +3,11 @@
         "requirements.txt"
     ],
     "graphs": {
-        "prompt_chaining": "./prompt_chaining.py:workflow",
-        "parallelisation": "./parallelisation.py:compiled_graph",
-        "router": "./router.py:compiled_graph",
-        "orchestrator_worker": "./orchestrator_worker.py:orchestrator_worker",
-        "evaluator_optimizer": "./evaluator_optimizer.py:compiled_graph"
+        "prompt_chaining": "./examples/prompt_chaining.py:workflow",
+        "parallelisation": "./examples/parallelisation.py:compiled_graph",
+        "router": "./examples/router.py:compiled_graph",
+        "orchestrator_worker": "./examples/orchestrator_worker.py:orchestrator_worker",
+        "evaluator_optimizer": "./examples/evaluator_optimizer.py:compiled_graph"
     },
     "env": ".env"
   }
